@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aplikasi-todo/static/css/main.0c4655a6.css",
+    "main.js": "/aplikasi-todo/static/js/main.2f4963ca.js",
+    "static/js/787.13857654.chunk.js": "/aplikasi-todo/static/js/787.13857654.chunk.js",
+    "index.html": "/aplikasi-todo/index.html",
+    "main.0c4655a6.css.map": "/aplikasi-todo/static/css/main.0c4655a6.css.map",
+    "main.2f4963ca.js.map": "/aplikasi-todo/static/js/main.2f4963ca.js.map",
+    "787.13857654.chunk.js.map": "/aplikasi-todo/static/js/787.13857654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4655a6.css",
+    "static/js/main.2f4963ca.js"
+  ]
+}
